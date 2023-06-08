@@ -1,5 +1,6 @@
 ### 안녕하세요 👋
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/black?style=flat&logo=JAVA&logoColor=FFFFFF"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/000000?style=flat&logo=JAVA&logoColor=#139BB4"/></a>
+
 
 저는 컴퓨터정보공학을 전공 후 현재는 싸피에서 9기로 웹프로그래밍에 대한 공부를 진행 중에 있습니다.
 
