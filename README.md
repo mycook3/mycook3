@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요 👋
+
+저는 컴퓨터정보공학을 전공 후 현재는 싸피에서 9기로 웹프로그래밍에 대한 공부를 진행 중에 있습니다.
 
 <!--
 **mycook3/mycook3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
