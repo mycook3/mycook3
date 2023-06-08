@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+// 깃state
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+//백준 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycook3)](https://solved.ac/mycook3/)
