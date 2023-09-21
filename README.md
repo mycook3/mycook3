@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 깃state -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycook3&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycook3&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold)
 <br>
 <!-- 백준티어 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycook3)](https://solved.ac/mycook3/)
