@@ -10,7 +10,6 @@
 - 🌱 싸피 9th ( 2023.01 ~ 현재 ) <br>
 - 👯 싸피 1학기 프로젝트 최우수상 수상 <br>
 - 😄 JLTP N3급 <br>
-- 💬 포트폴리오 : https://smart-governor-e87.notion.site/b2b53e8b124c4e4183f535dbaad7f7ad?pvs=4
   <br><br>
   
 
