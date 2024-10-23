@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white">
 <div>
 
-## 👩🏻‍💻 About me 
+## 🧑‍💻 About me 
 - 군산대학교(KUNSAN University) 
 - 컴퓨터공학 전공 (Computer Science and Engineering)   
 
@@ -22,6 +22,7 @@
 
 ## ⌨️ 코딩
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycook3)](https://solved.ac/mycook3/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycook3&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold)
 - `2023` PCCP Lv2
 
   
@@ -36,7 +37,7 @@
   - 😄 JLTP N3급 <br>
   
    
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycook3)](https://solved.ac/mycook3/)
+  
   - 🔭 I’m currently working on ...
   - 🌱 I’m currently learning ...
   - 👯 I’m looking to collaborate on ...
@@ -45,6 +46,9 @@
   - 📫 How to reach me: ...
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycook3&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold)
+  백준
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycook3)](https://solved.ac/mycook3/)
+  깃
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycook3&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold)
   <br>
 -->
