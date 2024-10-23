@@ -6,8 +6,9 @@
 <div>
 
 ## 🧑‍💻 About me 
-- 군산대학교(KUNSAN University) 
-- 컴퓨터공학 전공 (Computer Science and Engineering)   
+- 군산대학교(KUNSAN University) (2014.03 - 2021.02)
+- 컴퓨터공학 전공 (Computer Science and Engineering)
+- 삼성 청년 SW 아카데미 9기 수료 (2023.01 - 2023.12)
 
   
 ## 🏆 수상 경력
