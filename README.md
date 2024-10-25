@@ -32,32 +32,31 @@
   <br>
   <img alt="Mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
-  
 <div>
+<br>
 
 ## 🧑‍💻 About me 
 - 군산대학교(KUNSAN University) (2014.03 - 2021.02)
 - 컴퓨터공학 전공 (Computer Science and Engineering)
 - 삼성 청년 SW 아카데미 9기 수료 (2023.01 - 2023.12)
-
+<br>
   
 ## 🏆 수상 경력
 - `2018` 새만금 ICT 융합 엑스포 장려상
 - `2023` 삼성 청년 SW 아카데미 1학기 프로젝트 최우수상
 - `2023` 삼성 청년 SW 아카데미 베스트 멤버 수상
-
+<br>
      
 ## 🪪 **자격증**
 - `2023.08` JLPT N3 (일본어)
 - `2024.09` SQLD 자격증
-
+<br>
 
 ## ⌨️ 코딩
 - `2023` PCCP Lv2<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycook3)](https://solved.ac/mycook3/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycook3&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycook3&show_icons=true&theme=transparent)
   
 
 <!--
