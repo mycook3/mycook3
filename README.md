@@ -1,8 +1,38 @@
-### 안녕하세요 박지환입니다👋
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmycook3%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+</p>
+
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JIHWANPARK&fontSize=70)
+
+
+
+# 안녕하세요 동료와 함께 성장하는 개발자 박지환입니다👋
+
+<br>
+
+## 🔭 관심사<br>
+1. 사용자 관점에서 필요한 기능을 구현하고 싶습니다.<br>
+2. 자신의 코드뿐만 아니라 전체의 흐름을 파악하여 효율적인 서비스를 구현하고 싶습니다.<br>
+3. 자신이 개발하는 기능과 화면을 모두 관리 할 수 있는 Full Stack 개발자가 되고 싶습니다.<br>
+<br>
+
+## 🧱 My Stack
 <div>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springbootg&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/java-EC2025?style=for-the-badge&logo=JAVA&logoColor=white">
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <br>
+  <img alt="Spring" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  <img alt="Spribg Security" src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
+  <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <br>
+  <img alt="Mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
+  
 <div>
 
 ## 🧑‍💻 About me 
@@ -14,6 +44,7 @@
 ## 🏆 수상 경력
 - `2018` 새만금 ICT 융합 엑스포 장려상
 - `2023` 삼성 청년 SW 아카데미 1학기 프로젝트 최우수상
+- `2023` 삼성 청년 SW 아카데미 베스트 멤버 수상
 
      
 ## 🪪 **자격증**
@@ -22,9 +53,10 @@
 
 
 ## ⌨️ 코딩
+- `2023` PCCP Lv2<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycook3)](https://solved.ac/mycook3/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycook3&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold)
-- `2023` PCCP Lv2
+
 
   
 
