@@ -6,7 +6,7 @@
 </p>
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JIHWANPARK&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JIHWAN-PARK&fontSize=70)
 
 
 
