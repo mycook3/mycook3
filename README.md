@@ -32,6 +32,10 @@
   <br>
   <img alt="Mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
+  <br>
+  <img alt="Git" src="https://img.shields.io/badge/git-181717?style=for-the-badge&logo=Git&logoColor=white">
+  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
+  <img alt="Jira" src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 <div>
 <br>
 
