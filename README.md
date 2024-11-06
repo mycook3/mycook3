@@ -53,11 +53,10 @@
 ## 🪪 **자격증**
 - `2024.09` SQLD 자격증
 - `2023.08` JLPT N3 (일본어)
-
+- `2023` PCCP Lv2<br><br>
 <br>
 
 ## ⌨️ 코딩
-- `2023` PCCP Lv2<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mycook3)](https://solved.ac/mycook3/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycook3&show_icons=true&theme=transparent)
